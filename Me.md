@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PieterYuri
+- 👀 I’m interested in Programação
+- 🌱 I’m currently learning JavaScript,Css,Html and Python
+- 📫 How to reach my Instagram is binbingo_py
